@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:0, Main Event
+#EXTGRP:Sky Sport
+https://livecdn-iptv001.rumsport.com/livetv2/15545/index.m3u8
+#EXTINF:0, Sky Sports Premier League
+#EXTGRP:Sky Sport
+https://livecdn-iptv001.rumsport.com/livetv2/484/index.m3u8
+#EXTINF:0, Sky Sports Premier League 50FPS
+#EXTGRP:Sky Sport
+https://livecdn-iptv001.rumsport.com/livetv2/15546/index.m3u8
+#EXTINF:0, Sky Sports Mix
+#EXTGRP:Sky Sport
+https://livecdn-iptv001.rumsport.com/livetv2/15553/index.m3u8
+#EXTINF:0, Sky Sports Action
+#EXTGRP:Sky Sport
+https://livecdn-iptv001.rumsport.com/livetv2/15551/index.m3u8
+#EXTINF:0, Sky Sports Football
+#EXTGRP:Sky Sport
+https://livecdn-iptv001.rumsport.com/livetv2/15547/index.m3u8
+#EXTINF:0, Sky Sports Premier League NZ
+#EXTGRP:Sky Sport
+https://livecdn-iptv001.rumsport.com/livetv2/18263/index.m3u8
+#EXTINF:0, DAZN 1
+#EXTGRP:DAZN
+https://livecdn-iptv001.rumsport.com/livetv2/3291/index.m3u8
+#EXTINF:0, DAZN 2
+#EXTGRP:DAZN
+https://livecdn-iptv001.rumsport.com/livetv2/3292/index.m3u8
+#EXTINF:0, DAZN 3
+#EXTGRP:DAZN
+https://livecdn-iptv001.rumsport.com/livetv2/3293/index.m3u8
+#EXTINF:0, Sport TV 1
+#EXTGRP:Sport TV
+https://livecdn-iptv001.rumsport.com/livetv2/3137/index.m3u8
+#EXTINF:0, Sport TV 2
+#EXTGRP:Sport TV
+https://livecdn-iptv001.rumsport.com/livetv2/3139/index.m3u8
+#EXTINF:0, Sport TV 3
+#EXTGRP:Sport TV
+https://livecdn-iptv001.rumsport.com/livetv2/3141/index.m3u8
+#EXTINF:0, Sport TV 4
+#EXTGRP:Sport TV
+https://livecdn-iptv001.rumsport.com/livetv2/3142/index.m3u8
+#EXTINF:0, TNT Sport Ultimate
+#EXTGRP:TNT Sport
+https://livecdn-iptv001.rumsport.com/livetv2/1138/index.m3u8
+#EXTINF:0, TNT Sport 1
+#EXTGRP:TNT Sport
+https://livecdn-iptv001.rumsport.com/livetv2/557/index.m3u8
+
+
+
