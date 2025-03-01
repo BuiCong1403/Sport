@@ -1,535 +1,134 @@
 #EXTM3U
-#EXTINF:0, k cine
-#EXTGRP:Kplus
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/651475300?profile=pass
-#EXTINF:0, k Action
-#EXTGRP:Kplus
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1984950986?profile=pass
-#EXTINF:0, k sport1
-#EXTGRP:Kplus
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/110317627?profile=pass
-#EXTINF:0, k sport2
-#EXTGRP:Kplus
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1882525202?profile=pass
-#EXTINF:0, k kid
-#EXTGRP:Kplus
-http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8
-#EXTINF:0,SCTV VTV1
-#EXTGRP:VTV
-https://e4.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:0,TV360 VTV1
-#EXTGRP:VTV
-http://0tt.news/vtv/vtv1.m3u8
-#EXTINF:0,VTV1 50PFS
-#EXTGRP:VTV
-https://iptv.gaixixon.workers.dev/?channel=vtv2
-#EXTINF:0,SCTV VTV2
-#EXTGRP:VTV
-https://e8.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:0,TV360 VTV2
-#EXTGRP:VTV
-http://0tt.news/vtv/vtv2.m3u8
-#EXTINF:0,VTV2 50PFS
-#EXTGRP:VTV
-https://live.fptplay53.net/fnxhd1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,SCTV VTV3
-#EXTGRP:VTV
-https://e8.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:0,VTV3
-#EXTGRP:VTV
-http://0tt.news/vtv/vtv3.m3u8
-#EXTINF:0,VTV3 50PFS
-#EXTGRP:VTV
-https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:0,SCTV VTV4
-#EXTGRP:VTV
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8
-#EXTINF:0,TV360 VTV4
-#EXTGRP:VTV
-http://0tt.news/vtv/vtv4.m3u8
-#EXTINF:0,VTV5
-#EXTGRP:VTV
-http://0tt.news/vtv/vtv5.m3u8
-#EXTINF:0,SCTV VTV5
-#EXTGRP:VTV
-https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:0,TV360 VTV5
-#EXTGRP:VTV
-https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:0,SCTV VTV5TNB
-#EXTGRP:VTV
-https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8
-#EXTINF:0,VTV5TNB-1
-#EXTGRP:VTV
-http://0tt.news/vtv/vtv5tnb.m3u8
-#EXTINF:0,SCTV VTV6
-#EXTGRP:VTV
-https://e8.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8
-#EXTINF:0,VTV6 Cần thơ
-#EXTGRP:VTV
-http://0tt.news/vtv/vtv6.m3u8
-#EXTINF:0,SCTV VTV7
-#EXTGRP:VTV
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8
-#EXTINF:0,SCTV VTV8
-#EXTGRP:VTV
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
-#EXTINF:0,SCTV VTV9
-#EXTGRP:VTV
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
-#EXTINF:0,On Vie Giai trí
-#EXTGRP:VTV CAB
-https://api.wintv.me/360/180/index.m3u8
-#EXTINF:0,ON Phim Việt
-#EXTGRP:VTV CAB
-https://api.wintv.me/360/175/index.m3u8
-#EXTINF:0,ON sport
-#EXTGRP:VTV CAB
-https://devsy.pw/vtvcab3/index.m3u8
-#EXTINF:0,ON sport
-#EXTGRP:VTV CAB
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8
-#EXTINF:0,ON sport1
-#EXTGRP:VTV CAB
-https://api.wintv.me/vtvcab3/index.m3u8
-#EXTINF:0,ON sport2
-#EXTGRP:VTV CAB
-https://livevlive.vtvcab.vn/THETHAO_HD/m401_index.m3u8
-#EXTINF:0,ON movies
-#EXTGRP:VTV CAB
-https://api.wintv.me/360/181/index.m3u8
-#EXTINF:0,ON E Channel
-#EXTGRP:VTV CAB
-https://api.wintv.me/360/182/index.m3u8
-#EXTINF:0,ON sport+
-#EXTGRP:VTV CAB
-https://509942876.r.vtvcdn.com/HAY_TV/v2_index.m3u8
-#EXTINF:0,ON sport+1
-#EXTGRP:VTV CAB
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8
-#EXTINF:0,ON O2
-#EXTGRP:VTV CAB
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8
-#EXTINF:0,ON BIBI
-#EXTGRP:VTV CAB
-https://api.wintv.me/360/178/index.m3u8
-#EXTINF:0,ON INFO
-#EXTGRP:VTV CAB
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab9/index.m3u8
-#EXTINF:0,ON CINE
-#EXTGRP:VTV CAB
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8
-#EXTINF:0,ON STYLE
-#EXTGRP:VTV CAB
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab12/index.m3u8
-#EXTINF:0,ON MUSIC
-#EXTGRP:VTV CAB
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8
-#EXTINF:0,ON FOOTBALL
-#EXTGRP:VTV CAB
-https://liveh12.vtvcab.vn/hls/ONFOOTBALL123/04.m3u8
-#EXTINF:0,ON FOOTBALL-1
-#EXTGRP:VTV CAB
-https://api.wintv.me/vtvcab16/index.m3u8
-#EXTINF:0,ON FOOTBALL-2
-#EXTGRP:VTV CAB
-https://livevlive.vtvcab.vn/BONGDA_HD/m401_index.m3u8
-#EXTINF:0,ON TRENDING
-#EXTGRP:VTV CAB
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8
-#EXTINF:0,ON SPORTNEWS
-#EXTGRP:VTV CAB
-https://api.wintv.me/vtvcab18/index.m3u8
-#EXTINF:0,ON SPORTNEWS-1
-#EXTGRP:VTV CAB
-https://api.wintv.me/360/170/index.m3u8
-#EXTINF:0,ON SPORTNEWS-2
-#EXTGRP:VTV CAB
-https://livevlive.vtvcab.vn/THETHAO_TINTUC_HD/m401_index.m3u8
-#EXTINF:0,ON VIE DRAMA
-#EXTGRP:VTV CAB
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8
-#EXTINF:0,ON VIE FAMILY
-#EXTGRP:VTV CAB
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8
-#EXTINF:0,ON KIDS
-#EXTGRP:VTV CAB
-https://dethich.pw/vtvcab21/index.m3u8
-#EXTINF:0,ON LIFE 
-#EXTGRP:VTV CAB
-http://m3u.at/cab22-hd?token/playlist.m3u8
-#EXTINF:0,ON GOLF
-#EXTGRP:VTV CAB
-https://tth.vn/vtvcab23
-#EXTINF:0,ON SPORT ACTION
-#EXTGRP:VTV CAB
-http://live-ali2.tv360.vn/manifest/K_Plus_Sport2_test/playlist_1080p-5M.m3u8
-#EXTINF:0,ANTV
-#EXTGRP:THIET YEU
-https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
-#EXTINF:0,ANTV1
-#EXTGRP:THIET YEU
-https://liveh34.vtvcab.vn/hls/ONANTV_CL/index.m3u8
-#EXTINF:0,An ninh TG
-#EXTGRP:THIET YEU
-http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
-#EXTINF:0,TTXVN
-#EXTGRP:THIET YEU
-https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/playlist.m3u8
-#EXTINF:0,TTXVN
-#EXTGRP:THIET YEU
-https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
-#EXTINF:0,QPVN
-#EXTGRP:THIET YEU
-https://playlive.qpvn.vn/live/qpvn.m3u8
-#EXTINF:0,QPVN
-#EXTGRP:THIET YEU
-https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
-#EXTINF:0,HTV1
-#EXTGRP:HTV
-https://vc.101vn.com/htv/htvcmb.php?id=2631
-#EXTINF:0,HTV1 sctv
-#EXTGRP:HTV
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv1/index.m3u8
-#EXTINF:0,HTV2
-#EXTGRP:HTV
-https://vc.101vn.com/htv/htvcmb.php?id=2669
-#EXTINF:0,HTV2-sctv
-#EXTGRP:HTV
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8
-#EXTINF:0,HTV3-sctv
-#EXTGRP:HTV
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8
-#EXTINF:0,HTV KEY
-#EXTGRP:HTV
-https://vc.101vn.com/htv/htvcmb.php?id=2528
-#EXTINF:0,HTV4 sctv
-#EXTGRP:HTV
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8
-#EXTINF:0,HTV7
-#EXTGRP:HTV
-https://vc.101vn.com/htv/htvcmb.php?id=256
-#EXTINF:0,HTV7-sctv
-#EXTGRP:HTV
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
-#EXTINF:0,HTV9
-#EXTGRP:HTV 
-https://vc.101vn.com/htv/htvcmb.php?id=2667
-#EXTINF:0,HTV9-sctv
-#EXTGRP:HTV
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8
-#EXTINF:0,HTV SPORT
-#EXTGRP:HTV
-http://171.238.180.25:18080/304.m3u8
-#EXTINF:0,HTV SPORT-sctv
-#EXTGRP:HTV
-https://e2.endpoint.cdn.sctvonline.vn/hls/thethao/index.m3u8
-#EXTINF:0,HTV CANHAC
-#EXTGRP:HTV
-https://1011154949.vnns.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
-#EXTINF:0,HTV DULICH
-#EXTGRP:HTV
-https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
-#EXTINF:0,HTV GIADINH
-#EXTGRP:HTV
-https://1011154949.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
-#EXTINF:0,HTV PHIM
-#EXTGRP:HTV
-https://1011154949.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
-#EXTINF:0,HTV PHUNU
-#EXTGRP:HTV
-https://1011154949.vnns.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
-#EXTINF:0,HTV THUANVIET
-#EXTGRP:HTV
-https://1011154949.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
-#EXTINF:0,HTV PLUS
-#EXTGRP:HTV
-https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
-#EXTINF:0,SCTV1
-#EXTGRP:SCTV
-https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8
-#EXTINF:0,SCTV2
-#EXTGRP:SCTV
-https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv2/index.m3u8
-#EXTINF:0,SCTV3
-#EXTGRP:SCTV
-https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv3/index.m3u8
-#EXTINF:0,SCTV4
-#EXTGRP:SCTV
-https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv4/index.m3u8
-#EXTINF:0,SCTV5
-#EXTGRP:SCTV
-https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv5/index.m3u8
-#EXTINF:0,SCTV6
-#EXTGRP:SCTV
-https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0,SCTV7
-#EXTGRP:SCTV
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv7/index.m3u8
-#EXTINF:0,SCTV8
-#EXTGRP:SCTV
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv8/index.m3u8
-#EXTINF:0,SCTV9
-#EXTGRP:SCTV
-https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/sctv9/index.m3u8
-#EXTINF:0,SCTV10
-#EXTGRP:SCTV
-https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/sctv10/index.m3u8
-#EXTINF:0,SCTV11
-#EXTGRP:SCTV
-https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/channel/sctv11/index.m3u8
-#EXTINF:0,SCTV12
-#EXTGRP:SCTV
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/channel/sctv12/index.m3u8
-#EXTINF:0,SCTV13
-#EXTGRP:SCTV
-https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/hls/sctv13/index.m3u8
-#EXTINF:0,SCTV14
-#EXTGRP:SCTV
-https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist.m3u8
-#EXTINF:0,SCTV15
-#EXTGRP:SCTV
-https://live2cloud.sgchill.io.vn/hls/v2/uid:vmttv/ip:122:46:728:99/play/sctv/sctv15.smil/index.m3u8
-#EXTINF:0,SCTV16
-#EXTGRP:SCTV
-https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv16/index.m3u8
-#EXTINF:0,SCTV17
-#EXTGRP:SCTV
-https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8
-#EXTINF:0,SCTV18
-#EXTGRP:SCTV
-https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv18/index.m3u8
-#EXTINF:0,SCTV19
-#EXTGRP:SCTV
-https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv19/index.m3u8
-#EXTINF:0,SCTV20
-#EXTGRP:SCTV
-https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv20/index.m3u8
-#EXTINF:0,SCTV21
-#EXTGRP:SCTV
-https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv21/index.m3u8
-#EXTINF:0,SCTV22
-#EXTGRP:SCTV
-https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/channel/sctv22/index.m3u8
-#EXTINF:0,SCTV PHIM
-#EXTGRP:SCTV
-https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
-#EXTINF:0,HBO
-#EXTGRP:Quốc tế
-http://125hvt.ddns.net:21585/hbo/index.m3u8
-#EXTINF:0,HBO HD
-#EXTGRP:Quốc tế
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.112/test/123/playlist.mpegts
-#EXTINF:0,BOX MOVIE 1
-#EXTGRP:Quốc tế
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
-#EXTINF:0,BOX MOVIE
-#EXTGRP:Quốc tế
-https://oipf0znpmnliv.vcdn.cloud/hls/boxmovie1/index.m3u8
-#EXTINF:0,Hollywood Classics
-#EXTGRP:Quốc tế
-https://thvip.site/360/160/index.m3u8
-#EXTINF:0,Hollywood Classics-1
-#EXTGRP:Quốc tế
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8?%7CReferer=https://sctvonline.vn/
-#EXTINF:0,Happy Kids
-#EXTGRP:Quốc tế
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
-#EXTINF:0,CINEMAX
-#EXTGRP:Quốc tế
-http://123.21.223.9:8081/live/cinemax/index.m3u8
-#EXTINF:0,CINEMAX
-#EXTGRP:Quốc tế
-https://khanggtivi.xyz/vuminhthanh/vmt2024/cinemax/index.m3u8
-#EXTINF:0,CINEMAX sub
-#EXTGRP:Quốc tế
-http://103.183.118.124:1234/stream/cinemaxhd/stream.m3u8
-#EXTINF:0,BOX MUSIC
-#EXTGRP:Quốc tế
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
-#EXTINF:0,BOX HITS
-#EXTGRP:Quốc tế
-https://thvip.site/360/239/index.m3u8
-#EXTINF:0,Planet Earth
-#EXTGRP:Quốc tế
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
-#EXTINF:0,WOMAN
-#EXTGRP:Quốc tế
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
-#EXTINF:0,MAN
-#EXTGRP:Quốc tế
-https://thvip.site/360/237/index.m3u8
-#EXTINF:0,DR FIT
-#EXTGRP:Quốc tế
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
-#EXTINF:0,In the Box
-#EXTGRP:Quốc tế
-https://thvip.site/360/235/index.m3u8
-#EXTINF:0,AXN
-#EXTGRP:Quốc tế
-http://125hvt.ddns.net:21585/axn/index.m3u8
-#EXTINF:0,AXN HD
-#EXTGRP:Quốc tế
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.225/test/123/playlist.mpegts
-#EXTINF:0,Warner Bros
-#EXTGRP:Quốc tế
-http://gg.gg/HaNoiIPTV-Warner_TV_HD
-#EXTINF:0,Cartoon Network
-#EXTGRP:Quốc tế
-http://s4.nihontv.net:21585/cartoon/index.m3u8
-#EXTINF:0,Dreamworks
-#EXTGRP:Quốc tế
-http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.39:30120
-#EXTINF:0,Discovery
-#EXTGRP:Quốc tế
-http://s4.nihontv.net:21585/discovery/index.m3u8
-#EXTINF:0,Cinema World
-#EXTGRP:Quốc tế
-http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.15:30120
-#EXTINF:0,Love Nature 4K
-#EXTGRP:Quốc tế
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:0,BBC News
-#EXTGRP:Quốc tế
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-#EXTINF:0,CNN
-#EXTGRP:Quốc tế
-https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-#EXTINF:0,ABC News
-#EXTGRP:Quốc tế
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:0,ABC Australia
-#EXTGRP:Quốc tế
-http://49.0.64.96:8007/ABC
-#EXTINF:0,Discovery Asia
-#EXTGRP:Quốc tế
-https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
-#EXTINF:0,Discovery Chanel Asia
-#EXTGRP:Quốc tế
-https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
-#EXTINF:0,Sky news
-#EXTGRP:Quốc tế
-https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-#EXTINF:0,TRT World
-#EXTGRP:Quốc tế
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:0,Animal Planet
-#EXTGRP:Quốc tế
-https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-#EXTINF:0, Planet Earth
-#EXTGRP:International
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:0, Box Movie 1
-#EXTGRP:International
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:0, Hollywood Classics
-#EXTGRP:International
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:0, Dr.Fit
-#EXTGRP:International
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:0, Woman
-#EXTGRP:International
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:0, Happy Kids
-#EXTGRP:International
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:0, Music Box
-#EXTGRP:International
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:0, AXNHD
-#EXTGRP:International
-http://125hvt.ddns.net:21585/axn/index.m3u8
-#EXTINF:0, HBOHD
-#EXTGRP:International
-http://125hvt.ddns.net:21585/hbo/index.m3u8
-#EXTINF:0, WBTV
-#EXTGRP:International
-http://125hvt.ddns.net:21585/wbtv/index.m3u8
-#EXTINF:0, Discovery
-#EXTGRP:International
-http://125hvt.ddns.net:21585/discovery/index.m3u8
-#EXTINF:0, CNN
-#EXTGRP:International
-http://125hvt.ddns.net:21585/cnn/index.m3u8
-#EXTINF:0, TLC
-#EXTGRP:International
-http://125hvt.ddns.net:21585/tlc/index.m3u8
-#EXTINF:0, Arirang
-#EXTGRP:International
-https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
-#EXTINF:0, Asian Food Network
-#EXTGRP:International
-https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
-#EXTINF:0, CNA
-#EXTGRP:International
-https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
-#EXTINF:0, CNBC Asia
-#EXTGRP:International
-https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
-#EXTINF:0, DW
-#EXTGRP:International
-https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
-#EXTINF:0, Da Vinci
-#EXTGRP:International
-https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
-#EXTINF:0, France 24
-#EXTGRP:International
-https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
-#EXTINF:0, KBS World
-#EXTGRP:International
-https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
-#EXTINF:0, Sky Sport F1
-#EXTGRP:Thể thao Quốc tế
-http://p1.cvtv.xyz/f1?token=live
-#EXTINF:0, Sky Sport Premier League
-#EXTGRP:Thể thao Quốc tế
-http://p1.cvtv.xyz/pl?token=live
-#EXTINF:0, Sky Sport Mix
-#EXTGRP:Thể thao Quốc tế
-http://p1.cvtv.xyz/mix?token=live
-#EXTINF:0, Sky Sport Bundesliga
-#EXTGRP:Thể thao Quốc tế
-http://p1.cvtv.xyz/bun?token=live
-#EXTINF:0, Sky Sport Austria 1
-#EXTGRP:Thể thao Quốc tế
-http://p1.cvtv.xyz/SA1?token=live
-#EXTINF:0, Sky Sport A/B 2
-#EXTGRP:Thể thao Quốc tế
-http://p1.cvtv.xyz/SA2?token=live
-#EXTINF:0, Sky Sport A/B 3
-#EXTGRP:Thể thao Quốc tế
-http://p1.cvtv.xyz/SA3?token=live
-#EXTINF:0, Sky Sport A/B 4
-#EXTGRP:Thể thao Quốc tế
-http://p1.cvtv.xyz/SA4?token=live
-#EXTINF:0, DAZN1
-#EXTGRP:Thể thao Quốc tế
-http://p1.cvtv.xyz/DZ1?token=live
-#EXTINF:0, DAZN2
-#EXTGRP:Thể thao Quốc tế
-http://p1.cvtv.xyz/DZ2?token=live
-#EXTINF:0, Canal+ Premier League
-#EXTGRP:Thể thao Quốc tế
-http://p1.cvtv.xyz/cz?token=live
-#EXTINF:0, Canal+ Sport
-#EXTGRP:Thể thao Quốc tế
-http://p1.cvtv.xyz/cp1?token=live
-#EXTINF:0, Canal+ Action
-#EXTGRP:Thể thao Quốc tế
-http://p1.cvtv.xyz/ca?token=live
-#EXTINF:0, TNT Sports 1
-#EXTGRP:Thể thao Quốc tế
-http://p1.cvtv.xyz/tnt1?token=live
-#EXTINF:0, TNT Sports 2
-#EXTGRP:Thể thao Quốc tế
-http://p1.cvtv.xyz/tnt2?token=live
-#EXTINF:0, TNT Sports 3
-#EXTGRP:Thể thao Quốc tế
-http://p1.cvtv.xyz/tnt3?token=live
-#EXTINF:0, TNT Sports 4
-#EXTGRP:Thể thao Quốc tế
-http://p1.cvtv.xyz/tnt4?token=live
-#EXTINF:0, TNT Sports 5
-#EXTGRP:Thể thao Quốc tế
-http://p1.cvtv.xyz/tnt5?token=live
+#EXTINF:0, BTV
+#EXTGRP:4K
+http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
+#EXTINF:0, Astro Super Sport 4K
+#EXTGRP:4K
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
+#EXTINF:0, Astro Super Sport 4K-1
+#EXTGRP:4K
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
+#EXTINF:0, Astro Super Sport 4K-2
+#EXTGRP:4K
+http://nordicstream.xyz:2095/q8r8D5gHvh/ZmovhgMYOa/348094
+#EXTINF:0, Astro Super Sport 4K-2
+#EXTGRP:4K
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/348094
+#EXTINF:0, BBC
+#EXTGRP:4K
+http://sheriffwoody.in:80/Jeff1/Jeff1/3157685
+#EXTINF:0, Quadro 4K
+#EXTGRP:4K
+http://91.207.180.142/Quadro4K/index.m3u8
+#EXTINF:0, Museum 4k
+#EXTGRP:4K
+http://cdnx1.plusx.tv:8880/Museum/mono.m3u8?token=cb776083b1e1b6f9bb2222
+#EXTINF:0, V Sports UHD
+#EXTGRP:4K
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
+#EXTINF:0, V Sports UHD备
+#EXTGRP:4K
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/31644
+#EXTINF:0, Now Sports UHD HK
+#EXTGRP:4K
+http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
+#EXTINF:0, Now Sports UHD HK1
+#EXTGRP:4K
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117957
+#EXTINF:0, Now Sports UHD HK1
+#EXTGRP:4K
+http://4iptv.xyz:8080/1smart15209/jg8Gd5HqDRBE/149529
+#EXTINF:0, BeIN Sports 4K
+#EXTGRP:4K
+http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
+#EXTINF:0, Sky Sport UHD
+#EXTGRP:4K
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/290744.ts
+#EXTINF:0, TF1
+#EXTGRP:4K
+http://pro.ipcover.tv:8080/baldefamily33300/baldefamily123497/152182
+#EXTINF:0, TF1 4K备
+#EXTGRP:4K
+http://cineapp.org:8000/zbigniew/zbigniew/166354
+#EXTINF:0, CANAL+ UHD
+#EXTGRP:4K
+http://cineapp.org:8000/zbigniew/zbigniew/166355
+#EXTINF:0, CANAL+ LDC
+#EXTGRP:4K
+http://cineapp.org:8000/zbigniew/zbigniew/166356
+#EXTINF:0, Prima Sport 4K
+#EXTGRP:4K
+http://v1.nddarsenio.com:8008/Mihai_costin./h3JuTsE/62774
+#EXTINF:0, Eurosport 4K
+#EXTGRP:4K
+http://v1.nddarsenio.com:8008/Mihai_costin./h3JuTsE/53743
+#EXTINF:0, Ziggo Sport 4K
+#EXTGRP:4K
+http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
+#EXTINF:0, FILM 24/7 UHD
+#EXTGRP:4K
+http://x01.live:8080/5jpdeCex5H/aW2QpBqZTV/216226
+#EXTINF:0, FILM 24/7 UHD 2
+#EXTGRP:4K
+http://x01.live:8080/5jpdeCex5H/aW2QpBqZTV/216227
+#EXTINF:0, ARES CINEMA 4K
+#EXTGRP:4K
+http://v1.nddarsenio.com:8008/Mihai_costin./h3JuTsE/80107
+#EXTINF:0, FOX 1 Sports US 4K
+#EXTGRP:4K
+http://abc123.digital:8080/rchatosilva@yahoo.com/FdDWc56brW/484692
+#EXTINF:0, FUSSBALLTV 2 UHD
+#EXTGRP:4K
+http://abc123.digital:8080/rchatosilva@yahoo.com/FdDWc56brW/484703
+#EXTINF:0, FUSSBALLTV 3 UHD
+#EXTGRP:4K
+http://abc123.digital:8080/rchatosilva@yahoo.com/FdDWc56brW/484704
+#EXTINF:0, BT Sport Ultimate 4K
+#EXTGRP:4K
+http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042157.ts
+#EXTINF:0, Hub Premier Sport 4K
+#EXTGRP:4K
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
+#EXTINF:0, DAZN F1 UHD 4K
+#EXTGRP:4K
+http://tribaliptv.com:8080/Gustavo/123456/4930
+#EXTINF:0, MOVISTAR LIGA DE CAMPEONES UHD 4K
+#EXTGRP:4K
+http://tribaliptv.com:8080/Gustavo/123456/12401
+#EXTINF:0, Eleven Sports 1 4K
+#EXTGRP:4K
+http://cdnx1.plusx.tv:8880/325es4k/mono.m3u8?token=cb776083b1e1b6f9bb2222
+#EXTINF:0, Eleven Sports 1 4K2
+#EXTGRP:4K
+http://4iptv.xyz:8080/1smart15209/jg8Gd5HqDRBE/154014
+#EXTINF:0, Sport5 4k
+#EXTGRP:4K
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
+#EXTINF:0, Ultra Cinema UHD
+#EXTGRP:4K
+http://abc123.digital:8080/rchatosilva@yahoo.com/FdDWc56brW/234331
+#EXTINF:0, Insight UHD
+#EXTGRP:4K
+http://cdnx1.plusx.tv:8880/InsightUHD11/mono.m3u8?token=24cce35b06aecc51433333
+#EXTINF:0, ULTRA NATURE TV 4K
+#EXTGRP:4K
+http://185.236.229.31:9981/play/a01d
+#EXTINF:0, Fashion4K
+#EXTGRP:4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:0, Clarity4K
+#EXTGRP:4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:0, MUZZIK ZZ4000 4K
+#EXTGRP:4K
+http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
+#EXTINF:0, loupe 4K
+#EXTGRP:4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:0, Bloomberg TV+ 4K
+#EXTGRP:4K
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+
